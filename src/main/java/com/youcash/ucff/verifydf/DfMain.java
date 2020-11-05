@@ -8,6 +8,10 @@ public class DfMain {
 		
 		System.out.println(a + b);
 		
+		int c = 32;
+		int d = 32;
+		System.out.println(c + d);
+		
 	}
 	
 	public static void main(String[] args) {

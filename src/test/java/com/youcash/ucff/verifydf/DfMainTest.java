@@ -8,5 +8,8 @@ public class DfMainTest {
 	public void dosthTest(){
 		DfMain df = new DfMain();
 		df.justDoSthWithTest();
+		
+		DfNotCommit dfc = new DfNotCommit();
+		dfc.justDoSth1();
 	}
 }
