@@ -1,0 +1,12 @@
+package com.youcash.ucff.verifydf;
+
+import org.junit.Test;
+
+public class DfMainTest {
+	
+	@Test
+	public void dosthTest(){
+		DfMain df = new DfMain();
+		df.justDoSthWithTest();
+	}
+}
